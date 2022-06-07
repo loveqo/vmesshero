@@ -14,9 +14,7 @@ cat << EOF > ${DIR_TMP}/heroku.json
         "settings": {
             "clients": [{
                 "id": "${ID}",
-                "alterId": ${AID}
-                "security": "auto",
-                "level": 0
+                "alterId": 0
             }]
         },
         "streamSettings": {
