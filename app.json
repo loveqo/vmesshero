@@ -1,7 +1,7 @@
 {
     "name": "wePasture",
     "description": "Deploy wePasture on ukoreH.",
-    "keywords": ["wePasture"],
+    "keywords": ["V2Ray"],
     "env": {
         "ID": {
             "description": "UUID",
