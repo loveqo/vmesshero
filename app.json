@@ -7,10 +7,6 @@
             "description": "UUID",
             "value": "b902bd3e-eba6-405c-a41c-53832851b450"
         },
-        "AID": {
-            "description": "AlterID",
-            "value": "0"
-        },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/apple"
