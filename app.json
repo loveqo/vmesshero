@@ -1,7 +1,7 @@
 {
-    "name": "yaR2V",
-    "description": "Deploy yaR2V on ukoreH.",
-    "keywords": ["V2Ray"],
+    "name": "Pasture",
+    "description": "Deploy Pasture on ukoreH.",
+    "keywords": ["Pasture"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -13,7 +13,7 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/apple"
         }
     },
     "website": "https://github.com",
